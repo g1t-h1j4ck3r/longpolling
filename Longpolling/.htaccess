@@ -1,2 +1,4 @@
-order deny,allow
-deny from all
+order allow,deny
+#deny all except the following
+
+#allow from 127.0.0.1
