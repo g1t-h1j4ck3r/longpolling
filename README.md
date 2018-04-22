@@ -1,3 +1,3 @@
-# longpolling test
+# longpolling tests
 
-quick test for longpolling
+tests for longpolling
